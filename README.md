@@ -1,6 +1,6 @@
 # Budget Tracker App
 
-### this amazing app create with SQLite DataBase
+### This Bugget Tracker App is Fully create with SQFlite Database.
 
 ### IMAGES
 
